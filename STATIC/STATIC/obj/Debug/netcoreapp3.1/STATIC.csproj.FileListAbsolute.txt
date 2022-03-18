@@ -1,0 +1,14 @@
+C:\Users\tu7knjupn\Desktop\STATIC\STATIC\obj\Debug\netcoreapp3.1\STATIC.csproj.AssemblyReference.cache
+C:\Users\tu7knjupn\Desktop\STATIC\STATIC\obj\Debug\netcoreapp3.1\STATIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7knjupn\Desktop\STATIC\STATIC\obj\Debug\netcoreapp3.1\STATIC.AssemblyInfoInputs.cache
+C:\Users\tu7knjupn\Desktop\STATIC\STATIC\obj\Debug\netcoreapp3.1\STATIC.AssemblyInfo.cs
+C:\Users\tu7knjupn\Desktop\STATIC\STATIC\obj\Debug\netcoreapp3.1\STATIC.csproj.CoreCompileInputs.cache
+C:\Users\tu7knjupn\Desktop\STATIC\STATIC\bin\Debug\netcoreapp3.1\STATIC.exe
+C:\Users\tu7knjupn\Desktop\STATIC\STATIC\bin\Debug\netcoreapp3.1\STATIC.deps.json
+C:\Users\tu7knjupn\Desktop\STATIC\STATIC\bin\Debug\netcoreapp3.1\STATIC.runtimeconfig.json
+C:\Users\tu7knjupn\Desktop\STATIC\STATIC\bin\Debug\netcoreapp3.1\STATIC.runtimeconfig.dev.json
+C:\Users\tu7knjupn\Desktop\STATIC\STATIC\bin\Debug\netcoreapp3.1\STATIC.dll
+C:\Users\tu7knjupn\Desktop\STATIC\STATIC\bin\Debug\netcoreapp3.1\STATIC.pdb
+C:\Users\tu7knjupn\Desktop\STATIC\STATIC\obj\Debug\netcoreapp3.1\STATIC.dll
+C:\Users\tu7knjupn\Desktop\STATIC\STATIC\obj\Debug\netcoreapp3.1\STATIC.pdb
+C:\Users\tu7knjupn\Desktop\STATIC\STATIC\obj\Debug\netcoreapp3.1\STATIC.genruntimeconfig.cache
